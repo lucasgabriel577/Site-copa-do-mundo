@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "framer-motion": "13.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  },
+  "name": "copa-2026",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
